@@ -1,5 +1,5 @@
 # Income & Legislative Effectiveness: Overview
-Final Project from Political Statistics 2 with Professor Arcenaux
+*Final Project from Political Statistics 2 with Professor Arcenaux*
 - a
 - b
 - c
