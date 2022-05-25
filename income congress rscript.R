@@ -6,7 +6,7 @@ ipak <- function(pkg){
   sapply(pkg, require, character.only = TRUE)
 }
 
-packages <- c("tidyverse","dplyr","lmtest","stargazer","haven","summarytools","Hmisc","ggrepel","scales","Stack","psych")
+packages <- c("tidyverse","dplyr","lmtest","stargazer","haven","summarytools","Hmisc","ggrepel","scales","psych","interactions")
 ipak(packages)
 
 #set working directory
@@ -77,9 +77,10 @@ interact_plot(lm1, pred = "inf.adj.faminc", modx = "memberparty01",
 
 ggplot(inc.con1, aes(x=pct.passrej, color=as.factor(memberparty01))) + 
   geom_density() +
-  theme_classic()
+  theme_classic() +
+  xlab("Percent of legislation passed/rejected")
 
-#only keep party caucuses in the majority because of weird stuff with the pct.passrej variable
+#only keep party caucuses in the majority because keeping minority caucuses in the pct.passrej variable causes inherent correlation/mirroring
 
 majcong <- inc.con1 %>% filter(majinchamb == 1)
 
