@@ -29,9 +29,12 @@ Variables used:
 - Whether the president is the same party as the majority: `presmajpartysame`
 
 
-## Exploratory Data Analysis
+## Exploratory Data Analysis  
+Checking univariate regression of dependent and independent variables with ggplot:  
 ![alt text](https://github.com/sfinnexe/Income-and-Legislative-Effectiveness/blob/main/Visualizations/income%20leg.png) 
+Checking relationship between legislation passed and majority size:  
 ![alt text](https://github.com/sfinnexe/Income-and-Legislative-Effectiveness/blob/main/Visualizations/maj%20size%20leg.png) 
+Only keep majority party caucuses because the keeping minority caucuses in the `pct.passrej` variable causes inherent correlation.  
 ![alt text](https://github.com/sfinnexe/Income-and-Legislative-Effectiveness/blob/main/Visualizations/density%20plot%20passed%20rej%20legislation%20majority%20and%20minority.png) 
 ![alt text](https://github.com/sfinnexe/Income-and-Legislative-Effectiveness/blob/main/Visualizations/density%20plot%20percent%20legislation%20pass%20rate%20for%20majorities%20only.png)  
 
@@ -40,6 +43,7 @@ Variables used:
 ![alt text](https://github.com/sfinnexe/Income-and-Legislative-Effectiveness/blob/main/Regression%20Table%201.png)  
 ### Interaction Model  
 ![alt text](https://github.com/sfinnexe/Income-and-Legislative-Effectiveness/blob/main/Regression%20Table%202.png)  
+![alt text](https://github.com/sfinnexe/Income-and-Legislative-Effectiveness/blob/main/Visualizations/only%20majority%20interaction%20plot%20income%20interacted%20with%20party.png)  
 ## Conclusion
 
 
