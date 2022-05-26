@@ -30,13 +30,13 @@ Variables used:
 
 
 ## Exploratory Data Analysis
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
 
 ## Model Building
-Multivariate Linear Regression 
-![alt text](https://github.com/sfinnexe/Income-and-Legislative-Effectiveness/blob/main/Regression%20Table%201.png "Logo Title Text 1")
-Interaction Model
-
+Multivariate Linear Regression  
+![alt text](https://github.com/sfinnexe/Income-and-Legislative-Effectiveness/blob/main/Regression%20Table%201.png)  
+Interaction Model  
+![alt text](https://github.com/sfinnexe/Income-and-Legislative-Effectiveness/blob/main/Regression%20Table%202.png)  
 ## Conclusion
 
 
