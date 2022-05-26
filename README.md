@@ -1,5 +1,5 @@
 # Income & Legislative Effectiveness: Overview
-*Final Project from Political Statistics 2 with Professor Arcenaux*
+*Final Project from Political Statistics 2 with Professor Kevin Arcenaux*
 - Used multivariate regressions with interactions to answer the research question "Does the average median income of the districts represented by congressional party caucuses affect that caucus’s ability to pass legislation?"
 - Cleaned ACS data and congressional roll call data to create a data set of the average income of a congressional caucus’ congressional districts and the percentage of legislation that comes up for a vote that passes. 
 - Added control variables: the size of the majority, political party, whether the same party was in the majority in the other chamber, and whether the president was the same party as the majority in the chamber
