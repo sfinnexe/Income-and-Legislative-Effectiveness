@@ -1,8 +1,10 @@
 # Income & Legislative Effectiveness: Overview
 *Final Project from Political Statistics 2 with Professor Arcenaux*
-- a
-- b
-- c
+- Used multivariate regressions with interactions to answer the research question "Does the average median income of the districts represented by congressional party caucuses affect that caucus’s ability to pass legislation?"
+- Cleaned ACS data and congressional roll call data to create a data set of the average income of a congressional caucus’ congressional districts and the percentage of legislation that comes up for a vote that passes. 
+- Added control variables: the size of the majority, political party, whether the same party was in the majority in the other chamber, and whether the president was the same party as the majority in the chamber
+- Tested the moderating power of political party on the relationship between income and percent of legislation that is passed by using an interaction in the regression. 
+- Ultimately, I found that there is *some* evidence (at 90% confidence) that median family income leads to a higher proportion of legislation passed.
 
 
 ## Code and Resources Used
@@ -19,7 +21,8 @@ Sonnet (2020). Voteview: Congressional Roll-Call Votes Database. https://votevie
 ## Exploratory Data Analysis
 
 ## Model Building
-Linear Regression
+Multivariate Linear Regression  
+Interaction Model
 
 ## Conclusion
 
