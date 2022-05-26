@@ -32,10 +32,10 @@ Variables used:
 ## Exploratory Data Analysis
 
 
-## Model Building
-Multivariate Linear Regression  
+## Models
+### Multivariate Linear Regression  
 ![alt text](https://github.com/sfinnexe/Income-and-Legislative-Effectiveness/blob/main/Regression%20Table%201.png)  
-Interaction Model  
+### Interaction Model  
 ![alt text](https://github.com/sfinnexe/Income-and-Legislative-Effectiveness/blob/main/Regression%20Table%202.png)  
 ## Conclusion
 
