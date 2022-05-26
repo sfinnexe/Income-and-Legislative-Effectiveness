@@ -35,7 +35,7 @@ Checking univariate regression of dependent and independent variables with ggplo
 Checking relationship between legislation passed and majority size:  
 ![alt text](https://github.com/sfinnexe/Income-and-Legislative-Effectiveness/blob/main/Visualizations/maj%20size%20leg.png)  
 Only keep majority party caucuses because the keeping minority caucuses in the `pct.passrej` variable causes inherent correlation.  
-![alt text](https://github.com/sfinnexe/Income-and-Legislative-Effectiveness/blob/main/Visualizations/density%20plot%20passed%20rej%20legislation%20majority%20and%20minority.png)![alt text](https://github.com/sfinnexe/Income-and-Legislative-Effectiveness/blob/main/Visualizations/density%20plot%20percent%20legislation%20pass%20rate%20for%20majorities%20only.png)  
+![alt text](https://github.com/sfinnexe/Income-and-Legislative-Effectiveness/blob/main/Visualizations/density%20plot%20passed%20rej%20legislation%20majority%20and%20minority.png =250x250)![alt text](https://github.com/sfinnexe/Income-and-Legislative-Effectiveness/blob/main/Visualizations/density%20plot%20percent%20legislation%20pass%20rate%20for%20majorities%20only.png)  
 
 ## Models
 ### Multivariate Linear Regression  
