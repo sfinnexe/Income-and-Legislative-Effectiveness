@@ -30,7 +30,10 @@ Variables used:
 
 
 ## Exploratory Data Analysis
-
+![alt text](https://github.com/sfinnexe/Income-and-Legislative-Effectiveness/blob/main/Visualizations/income%20leg.png) 
+![alt text](https://github.com/sfinnexe/Income-and-Legislative-Effectiveness/blob/main/Visualizations/maj%20size%20leg.png) 
+![alt text](https://github.com/sfinnexe/Income-and-Legislative-Effectiveness/blob/main/Visualizations/density%20plot%20passed%20rej%20legislation%20majority%20and%20minority.png) 
+![alt text](https://github.com/sfinnexe/Income-and-Legislative-Effectiveness/blob/main/Visualizations/density%20plot%20percent%20legislation%20pass%20rate%20for%20majorities%20only.png)  
 
 ## Models
 ### Multivariate Linear Regression  
